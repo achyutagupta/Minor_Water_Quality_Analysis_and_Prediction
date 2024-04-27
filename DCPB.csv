@@ -1,0 +1,226 @@
+﻿Year,Month,S.No,Locations,pH,COD mg/l,BOD mg/l,DO mg/l,Fecal  Coliform (MPN/100ml)
+2020,Januaury,1,Palla,8,12,2.8,6.9,18*102
+2020,Januaury,2,Surghat,8.06,16,3.8,6.8,170
+2020,Januaury,3,Palton Pool,7.24,116,33,,13*106
+2020,Januaury,4,Kudesia Ghat,7.37,60,25,,14*106
+2020,Januaury,5,ITO Bridge,7.63,32,22,2.3,33*106
+2020,Januaury,6,Nizamuddin Bridge,7.64,42,16,2.3,63*106
+2020,Januaury,7,Agra Canal,7.46,42,16,4.8,26*104
+2020,Januaury,8,Jaitpur,7.45,48,17,4.2,14*105
+2020,Januaury,9,D/S okhla Barrage,7.63,76,23,,12*105
+2020,February,1,Palla,7.6,9,2.6,8.7,68
+2020,February,2,Surghat,7.2,8,3,4.3,18*102
+2020,February,3,Palton Pool,7.5,92,28,,42*102
+2020,February,4,Kudesia Ghat,7.5,88,28,,48*105
+2020,February,5,ITO Bridge,7.6,96,32,,52*105
+2020,February,6,Nizamuddin Bridge,7.7,80,32,1.9,2*105
+2020,February,7,Agra Canal,7.7,132,30,,35*105
+2020,February,8,Jaitpur,8,152,58,,74*105
+2020,February,9,D/S okhla Barrage,7.6,92,32,,86*105
+2020,March,1,Palla,7.8,8,2.5,8.4,80
+2020,March,2,Surghat,7.9,10,3,4.8,50*102
+2020,March,3,Palton Pool,7.6,84,30,,60*108
+2020,March,4,Kudesia Ghat,7.6,80,28,,40*105
+2020,March,5,ITO Bridge,7.9,76,25,,50*108
+2020,March,6,Nizamuddin Bridge,7.7,76,24,0.8,27*105
+2020,March,7,Agra Canal,7.8,132,42,,31*105
+2020,March,8,Jaitpur,8,152,58,,80*105
+2020,March,9,D/S okhla Barrage,7.6,92,32,,90*105
+2020,April,1,Palla,8,12,2.8,,18*102
+2020,April,2,Surghat,8.06,16,3.8,,170
+2020,April,3,Palton Pool,7.24,116,33,,13*106
+2020,April,4,Kudesia Ghat,7.37,60,25,,14*106
+2020,April,5,ITO Bridge,7.63,32,22,,33*106
+2020,April,6,Nizamuddin Bridge,7.64,42,16,,63*104
+2020,April,7,Agra Canal,7.46,42,16,,26*104
+2020,April,8,Jaitpur,7.45,48,17,,14*105
+2020,April,9,D/S okhla Barrage,7.63,76,23,,12*105
+2020,July,1,Palla,7.9,16,4,,400
+2020,July,2,Surghat,8,28,6.6,,50*103
+2020,July,3,Palton Pool,7.5,60,19,,60*104
+2020,July,4,Kudesia Ghat,7.2,80,24,,90*104
+2020,July,5,ITO Bridge,7.5,88,28,,80*104
+2020,July,6,Nizamuddin Bridge,7.3,30,13,3.5,110*103
+2020,July,7,Agra Canal,7.6,52,16,,80*103
+2020,July,8,Jaitpur,7.8,52,20,2.5,11*104
+2020,July,9,D/S okhla Barrage,7.8,58,18,,2*1011
+2020,August,1,Palla,8.1,10,2.8,9,210
+2020,August,2,Surghat,8,18,4,7.3,26*102
+2020,August,3,Palton Pool,7.9,110,38,,40*105
+2020,August,4,Kudesia Ghat,8,82,32,,50*105
+2020,August,5,ITO Bridge,8.1,76,28,2,50*105
+2020,August,6,Nizamuddin Bridge,7.9,68,22,1.6,30*105
+2020,August,7,Agra Canal,8.2,98,32,,33*104
+2020,August,8,Jaitpur,8,78,28,1.3,70*105
+2020,August,9,D/S okhla Barrage,7.3,88,30,,60*105
+2020,September,1,Palla,7.5,10,2,8.7,4*102
+2020,September,2,Surghat,7.1,18,4,7.4,4.5*102
+2020,September,3,Palton Pool,7.4,82,28,1.4,17*103
+2020,September,4,Kudesia Ghat,7.2,48,16,2.3,7.8*104
+2020,September,5,ITO Bridge,7.4,68,20,1.7,33*104
+2020,September,6,Nizamuddin Bridge,7.2,62,24,0.9,14*104
+2020,September,7,Agra Canal,7.8,60,18,3.1,110*103
+2020,September,8,Jaitpur,7.8,78,22,2.1,33*103
+2020,September,9,D/S okhla Barrage,7.7,54,16,1.5,7.8*104
+2020,October,1,Palla,7.6,4,0.4,4.5,7.8*104
+2020,October,2,Surghat,7.4,4,1,4.8,2*102
+2020,October,3,Palton Pool,7.4,76,20,,47*104
+2020,October,4,Kudesia Ghat,7.3,28,9,,4.5*104
+2020,October,5,ITO Bridge,7.3,64,13,,4.5*104
+2020,October,6,Nizamuddin Bridge,7.3,44,9,3.2,17*103
+2020,October,7,Agra Canal,7.5,36,12,,23*103
+2020,October,8,Jaitpur,7.6,44,18,4.2,7.8*103
+2020,October,9,D/S okhla Barrage,7.5,84,20,,11*103
+2021,March,1,Palla,6.4,20,1.4,5.7,2*103
+2021,March,2,Surghat,7.39,32,2.2,4.6,27*103
+2021,March,3,Palton Pool,6.84,180,44,,32*105
+2021,March,4,Kudesia Ghat,6.57,80,26,,92*104
+2021,March,5,ITO Bridge,6.92,140,30,,46*104
+2021,March,6,Nizamuddin Bridge,6.54,128,28,,17*104
+2021,March,7,Agra Canal,7.07,112,70,,14*104
+2021,March,8,Jaitpur,7.01,228,49,,45*106
+2021,March,9,D/S okhla Barrage,6.94,144,30,,31*104
+2021,June,1,Palla,8,28,1,9.8,1*102
+2021,June,2,Surghat,8.5,42,2,6.2,17*103
+2021,June,3,Palton Pool,7,76,10,1.6,34*103
+2021,June,4,Kudesia Ghat,7.6,88,22,,47*103
+2021,June,5,ITO Bridge,7.15,152,30,,70*103
+2021,June,6,Nizamuddin Bridge,6.42,56,10,,23*103
+2021,June,7,Agra Canal,7.45,200,42,,14*104
+2021,June,8,Jaitpur,7.04,64,16,,94*103
+2021,July,1,Palla,8.35,40,3.5,6.5,2*102
+2021,July,2,Surghat,8.43,52,7,6,68*102
+2021,July,3,Palton Pool,7.38,168,38,1.1,33*103
+2021,July,4,Kudesia Ghat,7.53,152,42,2,38*104
+2021,July,5,ITO Bridge,6.96,120,22,,40*103
+2021,July,6,Nizamuddin Bridge,7.52,152,37,,33*103
+2021,July,7,Agra Canal,7.78,288,68,,14*104
+2021,July,8,Jaitpur,7.67,160,31,,47*103
+2021,August,1,Palla,7.56,36,2.5,9.9,18*102
+2021,August,2,Surghat,7.5,88,6,6.6,42*102
+2021,August,3,Palton Pool,7.53,168,52,1.5,48*105
+2021,August,4,Kudesia Ghat,7.65,288,66,,52*105
+2021,August,5,ITO Bridge,7.66,176,42,,2*105
+2021,August,6,Nizamuddin Bridge,7.51,240,58,,35*105
+2021,August,7,Agra Canal,7.63,320,78,6.9,74*105
+2021,August,8,Jaitpur,7.42,200,54,6.8,86*105
+2021,September,1,Palla,7.25,24,4,,49*102
+2021,September,2,Surghat,7.4,56,10,,11*103
+2021,September,3,Palton Pool,7.36,128,1.9,2.3,35*104
+2021,September,4,ITO Bridge,7.38,120,0.6,2.3,11*104
+2021,September,5,Nizamuddin Bridge,7.46,80,1.2,4.8,79*103
+2021,September,6,Agra Canal,7.66,136,1.9,4.2,49*103
+2021,September,7,Jaitpur,7.76,232,0.3,,7*104
+2021,September,8,D/S okhla Barrage,7.53,184,99,5.7,94*103
+2021,October,1,Palla,7.49,24,3,7.3,4.5*102
+2021,October,2,Surghat,7.36,48,8,,6.8*102
+2021,October,3,Palton Pool,7.34,136,34,8.8,63*103
+2021,October,4,Kudesia Ghat,7.63,192,46,6.1,2.2*104
+2021,October,5,ITO Bridge,7.32,96,26,,79*103
+2021,October,6,Nizamuddin Bridge,7.36,160,40,0.6,79*103
+2021,October,7,Agra Canal,7.41,168,52,,33*104
+2021,October,8,Jaitpur,7.22,128,30,,11*104
+2021,November,1,Palla,7.84,21,4,,18*102
+2021,November,2,Surghat,6.6,53,9,,42*102
+2021,November,3,Palton Pool,7.15,176,38,11.3,48*105
+2021,November,4,Kudesia Ghat,7.37,232,48,8.2,52*105
+2021,November,5,ITO Bridge,7.97,144,34,3,2*105
+2021,November,6,Nizamuddin Bridge,7.9,112,22,,35*105
+2021,November,7,Agra Canal,7.82,184,38,,74*105
+2021,November,8,Jaitpur,7.52,288,60,,86*105
+2022,January,1,Palla,6.58,32,1.5,9.1,10*102
+2022,January,2,Wazirabad,7.21,56,10,6.8,24*103
+2022,January,3,ISBT Bridhe,7.3,186.6,45,,17*104
+2022,January,4,ITO Bridge,6.68,152,62,0.4,31*104
+2022,January,5,Nizamuddin Bridge,7.43,168,65,,58*104
+2022,January,6,Okhla Barrage,6.84,192,55,,84*104
+2022,January,7,Agra Canal,7.31,256,70,,63*105
+2022,January,8,Asgarpur,6.43,224,62,,79*104
+2022,March,1,Palla,6.81,26,2,8.4,11*102
+2022,March,2,Wazirabad,7.36,64,8.5,5.3,22*103
+2022,March,3,ISBT Bridhe,7.42,184,48,,31*104
+2022,March,4,ITO Bridge,6.89,144,56,0.6,25*104
+2022,March,5,Nizamuddin Bridge,7.09,160,65,,48*103
+2022,March,6,Okhla Barrage,7,184,62,,6*105
+2022,March,7,Agra Canal,7.25,176,70,,46*104
+2022,March,8,Asgarpur,7.2,232,62,,84*104
+2022,April,1,Palla,7.23,37,2.5,8.1,12*103
+2022,April,2,Wazirabad,7.41,72,9,5,21*103
+2022,April,3,ISBT Bridhe,6.92,192,50,,26*104
+2022,April,4,ITO Bridge,7.11,160,57,0.4,27*104
+2022,April,5,Nizamuddin Bridge,7.24,176,60,,49*103
+2022,April,6,Okhla Barrage,7.3,208,70,,5.5*104
+2022,April,7,Agra Canal,7.22,169,64,,6.1*105
+2022,April,8,Asgarpur,7.13,240,75,,40*104
+2022,June,1,Palla,7.33,32,8.8,8.6,13*102
+2022,June,2,Wazirabad,7.38,69,2.8,5.1,20*103
+2022,June,3,ISBT Bridhe,6.95,176,60,,25*104
+2022,June,4,ITO Bridge,7.24,154,54,0.6,26*104
+2022,June,5,Nizamuddin Bridge,7.3,184,63,,46*103
+2022,June,6,Okhla Barrage,7.28,208,73,,70*104
+2022,June,7,Agra Canal,7.2,192,66,,41*104
+2022,June,8,Asgarpur,7.19,266,83,,8.3*105
+2022,November,1,Palla,7.4,36,2.5,8.8,12*102
+2022,November,2,Wazirabad,7.26,69,8.5,5.2,20*103
+2022,November,3,ISBT Bridhe,7.32,208,52,,24*104
+2022,November,4,ITO Bridge,7.2,181,53,0.5,21*104
+2022,November,5,Nizamuddin Bridge,7.44,256,58,,39*103
+2022,November,6,Okhla Barrage,7.34,272,76,,63*10
+2022,November,7,Agra Canal,7.36,224,62,,40*104
+2022,November,8,Asgarpur,7.33,288,75,,6.1*105
+2022,December,1,Palla,7.46,37,2.2,9.4,14*102
+2022,December,2,Wazirabad,7.3,53,9,5.8,26*10
+2022,December,3,ISBT Bridhe,7.36,176,46,,63*103
+2022,December,4,ITO Bridge,7.24,160,42,0.8,20*103
+2022,December,5,Nizamuddin Bridge,7.42,184,53,,8.1*10
+2022,December,6,Okhla Barrage,7.42,240,68,,39*104
+2022,December,7,Agra Canal,7.4,200,62,,58*104
+2022,December,8,Asgarpur,7.35,256,73,,26*102
+2023,January,1,Palla,7.3,24,1.5,10,2*102
+2023,January,2,Wazirabad,7.24,42,6.5,7.1,5.5*103
+2023,January,3,ISBT Bridhe,7.11,253,38,,10*104
+2023,January,4,ITO Bridge,7.42,106,35,1,8.1*104
+2023,January,5,Nizamuddin Bridge,7.44,160,42,,14*103
+2023,January,6,Okhla Barrage,7.38,176,48,,23*104
+2023,January,7,Agra Canal,7.33,160,44,,17*104
+2023,January,8,Asgarpur,7.46,186,56,,2*105
+2023,February,1,Palla,7.24,20,1.5,9.3,1.8*102
+2023,February,2,Wazirabad,7.39,40,7.5,6.7,5.6*102
+2023,February,3,ISBT Bridhe,7.2,144,40,,11*103
+2023,February,4,ITO Bridge,7.31,96,30,0.8,8.3*103
+2023,February,5,Nizamuddin Bridge,7.48,152,44,,9.3*103
+2023,February,6,Okhla Barrage,7.29,168,46,,14*104
+2023,February,7,Agra Canal,6.94,160,42,,11*104
+2023,February,8,Asgarpur,6.82,176,52,,25*104
+2023,March,1,Palla,7.33,26,2,8.3,4*102
+2023,March,2,Wazirabad,7.41,48,8,5.8,8.2*102
+2023,March,3,ISBT Bridhe,7.42,149,44,,20*103
+2023,March,4,ITO Bridge,7.44,101,36,0.6,14*103
+2023,March,5,Nizamuddin Bridge,7.32,154,48,,26*103
+2023,March,6,Okhla Barrage,7.36,170,46,,34*104
+2023,March,7,Agra Canal,7.11,165,44,,21*104
+2023,March,8,Asgarpur,6.9,181,54,,23*104
+2023,April,1,Palla,7.26,32,2.5,8,5.6*102
+2023,April,2,Wazirabad,7.38,53,8.5,5,9.2*102
+2023,April,3,ISBT Bridhe,7.4,154,46,,25*103
+2023,April,4,ITO Bridge,7.46,106,38,0.4,17*103
+2023,April,5,Nizamuddin Bridge,7.35,160,48,,31*103
+2023,April,6,Okhla Barrage,7.39,181,50,,38*104
+2023,April,7,Agra Canal,7.14,170,44,,28*104
+2023,April,8,Asgarpur,7.01,192,56,,47*104
+2023,June,1,Palla,7.29,26,1.5,,5.5*102
+2023,June,2,Wazirabad,7.34,42,7.5,,9.1*102
+2023,June,3,ISBT Bridhe,7.25,144,40,,22*103
+2023,June,4,ITO Bridge,7.38,101,34,,14*103
+2023,June,5,Nizamuddin Bridge,7.27,152,42,,26*103
+2023,June,6,Okhla Barrage,8.02,170,48,,27*104
+2023,June,7,Agra Canal,7.72,165,46,,34*104
+2023,June,8,Asgarpur,7.36,181,50,,43*104
+2023,July,1,Palla,7.32,16,1,,1.8*102
+2023,July,2,Wazirabad,7.3,20,4,,2*102
+2023,July,3,ISBT Bridhe,7.35,64,22,,5.5*103
+2023,July,4,ITO Bridge,7.25,48,18,4.1,8.1*103
+2023,July,5,Nizamuddin Bridge,7.11,76,26,2.5,10*103
+2023,July,6,Okhla Barrage,7.05,88,30,1.8,12*104
+2023,July,7,Agra Canal,7.15,96,32,1.5,13*104
+2023,July,8,Asgarpur,7.44,112,35,1.1,17*104
